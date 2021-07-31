@@ -1,2 +1,9 @@
 .idea
 node_modules
+
+# ignoring all generated folder when development
+navigations
+stores
+services
+components
+screens
