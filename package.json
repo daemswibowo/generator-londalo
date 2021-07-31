@@ -1,5 +1,5 @@
 {
-  "name": "generator-londalo",
+  "name": "generator-geract",
   "version": "0.0.2",
   "description": "",
   "scripts": {
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/londalo/generator-londalo.git"
+    "url": "https://github.com/mari-geract/generator-geract.git"
   },
   "keywords": [
     "yeoman-generator",
@@ -20,9 +20,9 @@
   "author": "Dimas Wibowo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/londalo/generator-londalo.git/issues"
+    "url": "https://github.com/mari-geract/generator-geract.git/issues"
   },
-  "homepage": "https://github.com/londalo/generator-londalo#readme",
+  "homepage": "https://github.com/mari-geract/generator-geract#readme",
   "dependencies": {
     "chalk": "^4.1.2",
     "change-case": "^4.1.2",

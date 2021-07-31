@@ -1,5 +1,5 @@
 /**
- * Londalo Generator
+ * Geract Generator
  * For react navigation drawer guide please visit:
  * https://reactnavigation.org/docs/drawer-navigator/
  */

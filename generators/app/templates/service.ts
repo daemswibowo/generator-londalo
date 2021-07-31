@@ -1,3 +1,7 @@
+/**
+ * Geract Generator
+ */
+
 import RequestAdapterService from "./requestAdapterService";
 import {AxiosResponse} from "axios";
 

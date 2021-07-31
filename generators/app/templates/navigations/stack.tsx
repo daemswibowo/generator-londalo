@@ -1,5 +1,5 @@
 /**
- * Londalo Generator
+ * Geract Generator
  * For react navigation stack guide please visit:
  * https://reactnavigation.org/docs/stack-navigator/
  */

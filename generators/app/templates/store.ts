@@ -1,5 +1,5 @@
 /**
- * Londalo
+ * Geract
  * This is a store using mobx
  */
 
